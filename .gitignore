@@ -1,0 +1,15 @@
+
+*.pyc
+*.py[cod]
+
+.pytest_cache
+__pycache__
+functions/__pycache__
+graphs/__pycache__
+utils/__pycache__
+
+output/*
+screenshots/*
+
+venv/
+
